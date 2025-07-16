@@ -117,7 +117,7 @@ The dashboard operates on my feedback data supplied via the `Personal Feedback.c
 Feel free to connect or reach out if you have any questions, feedback, or collaboration opportunities!
 
 * **GitHub:** [GraceJulius](https://github.com/GraceJulius)
-* **Email:** [your.email@example.com](mailto:juliusgrace65@gmail.com) 
+* **Email:** [juliusgrace65@gmail.com](mailto:juliusgrace65@gmail.com) 
 * **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/grace-julius/)] 
 
 
